@@ -1,2 +1,2 @@
-#define SECRET_SSID "bluebird27"
-#define SECRET_PASS "pggsk33!?"
+#define SECRET_SSID "bl-secret-27"
+#define SECRET_PASS "p-secret-33!?"
