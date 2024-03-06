@@ -15,8 +15,8 @@ char pass[] = SECRET_PASS;    // your network password (use for WPA, or use as k
 int status = WL_IDLE_STATUS;
  
 WiFiClient client;
-unsigned long myChannelNumber = 2300884;
-const char * myWriteAPIKey = "0MMB6KXPFNNLL698";
+unsigned long myChannelNumber = 23-secret-84;
+const char * myWriteAPIKey = "0MMB-secret-LL698";
 /* -------------------------------------------------------------------------- */
 void setup() {
 /* -------------------------------------------------------------------------- */  
